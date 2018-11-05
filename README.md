@@ -1,2 +1,2 @@
 # Multisign
-Doing a multisign transaction.
+Doing a multisign transaction script.
